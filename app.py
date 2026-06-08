@@ -7,4 +7,12 @@ st.set_page_config(
 
 st.title("Embroidery Service Management System")
 
-st.write("Select a page from the sidebar.")
+st.write("""
+Welcome to the demo.
+
+Use the sidebar to switch between:
+
+- Admin Dashboard
+- Worker Dashboard
+- Customer Dashboard
+""")
