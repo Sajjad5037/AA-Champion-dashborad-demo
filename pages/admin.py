@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Admin Dashboard")
+st.title("Admin Dashboard 2")
 
 col1, col2, col3, col4 = st.columns(4)
 
