@@ -6,6 +6,9 @@ st.set_page_config(
 )
 
 st.title("Embroidery Service Management System")
+st.error("APP VERSION 999")
+
+
 
 role = st.selectbox(
     "Select Role",
